@@ -1,0 +1,2 @@
+# IQWhizz
+IQ calculator
