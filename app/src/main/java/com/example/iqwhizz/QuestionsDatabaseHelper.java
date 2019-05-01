@@ -8,7 +8,7 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
-import com.example.iqwhizz.Questions;
+import com.example.iqwhizz.Question;
 public class QuestionsDatabaseHelper extends SQLiteOpenHelper {
     private static final int DATABASE_VERSION = 1;
 
@@ -16,9 +16,9 @@ public class QuestionsDatabaseHelper extends SQLiteOpenHelper {
     private static final String TABLE_QUESTION = "questions";
 
     private static final String COLUMN_QUESTION_QNUM = "question_qnum";
-    private static final String COLUMN_QUESTION_STATEMENT= "user_statement";
-    private static final String COLUMN_QUESTION_DIFFICULTY = "user_difficulty";
-    private static final String COLUMN_QUESTION_SUBJECT = "user_subject";
+    private static final String COLUMN_QUESTION_STATEMENT= "question_statement";
+    private static final String COLUMN_QUESTION_DIFFICULTY = "question_difficulty";
+    private static final String COLUMN_QUESTION_SUBJECT = "question_subject";
 
     private String CREATE_QUESTION_TABLE = "CREATE TABLE " + TABLE_QUESTION + "("
             + COLUMN_QUESTION_QNUM + " INTEGER PRIMARY KEY AUTOINCREMENT," + COLUMN_QUESTION_STATEMENT + " TEXT,"
@@ -34,6 +34,18 @@ public class QuestionsDatabaseHelper extends SQLiteOpenHelper {
     public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
         db.execSQL(DELETE_USER_TABLE);
         onCreate(db);
+    }
+    public void addQuestion(Question question) {
+        SQLiteDatabase db = this.getWritableDatabase();
+
+        ContentValues values = new ContentValues();
+        values.put(COLUMN_QUESTION_STATEMENT, question.getStatement());
+        values.put(COLUMN_QUESTION_DIFFICULTY, question.getDifficulty());
+        values.put(COLUMN_QUESTION_SUBJECT, question.getSubject());
+
+        // Inserting Row
+        db.insert(TABLE_QUESTION, null, values);
+        db.close();
     }
 
 

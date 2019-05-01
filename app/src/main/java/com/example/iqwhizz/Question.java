@@ -1,6 +1,6 @@
 package com.example.iqwhizz;
 
-public class Questions {
+public class Question {
     private int Qnum;
     private String Statement;
     private int Difficulty;
