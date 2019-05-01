@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\sacha\\AndroidStudioProjects\\IQWhizz\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+            "outputFile": "C:\\Users\\nicol\\Documents\\Ucl\\LFSAB Q4\\LSINF1225 Conception_Oriente_Objet\\Projet1225\\IQWhizz\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\sacha\\.gradle\\caches\\transforms-2\\files-2.1\\d5f16b73529bf0f0ae2b6a649969de48\\res\\values-port\\values-port.xml",
+                    "source": "C:\\Users\\nicol\\.gradle\\caches\\transforms-2\\files-2.1\\b75b187835e5b78a5b375be211369cfd\\res\\values-port\\values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

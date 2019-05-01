@@ -1099,7 +1099,6 @@ id enterAlwaysCollapsed
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
-id fab
 id fill
 id fill_horizontal
 id fill_vertical
@@ -1216,7 +1215,6 @@ id time
 id title
 id titleDividerNoCustom
 id title_template
-id toolbar
 id top
 id topPanel
 id touch_outside
@@ -1282,8 +1280,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
-layout activity_start_up_screen
-layout content_start_up_screen
+layout activity_sign_up
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
 layout design_layout_snackbar
@@ -1356,9 +1353,18 @@ string appbar_scrolling_view_behavior
 string bottom_sheet_behavior
 string character_counter_content_description
 string character_counter_pattern
+string error_login_credentials
+string error_login_username
+string error_message_password
+string error_message_username
+string error_valid_email_password
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
 string hide_bottom_view_on_scroll_behavior
+string hint_confirm_password
+string hint_name
+string hint_password
+string hint_username
 string mtrl_chip_close_icon_content_description
 string password_toggle_content_description
 string path_password_eye
@@ -1367,6 +1373,10 @@ string path_password_eye_mask_visible
 string path_password_strike_through
 string search_menu_title
 string status_bar_notification_info_overflow
+string success_message
+string text_SignIn
+string text_SignUp
+string text_username_exists
 string title_activity_start_up_screen
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\sacha\\AndroidStudioProjects\\IQWhizz\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "C:\\Users\\nicol\\Documents\\Ucl\\LFSAB Q4\\LSINF1225 Conception_Oriente_Objet\\Projet1225\\IQWhizz\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\sacha\\.gradle\\caches\\transforms-2\\files-2.1\\d5f16b73529bf0f0ae2b6a649969de48\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\nicol\\.gradle\\caches\\transforms-2\\files-2.1\\b75b187835e5b78a5b375be211369cfd\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -15,7 +15,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\sacha\\.gradle\\caches\\transforms-2\\files-2.1\\3e84942238ff05269ab4cac3634294da\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\nicol\\.gradle\\caches\\transforms-2\\files-2.1\\ca2b23763d6bc63e3d651d22cf427e29\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
