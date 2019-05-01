@@ -17,6 +17,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.iqwhizz.StartUpScreen"
+            android:label="@string/title_activity_start_up_screen"
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name="com.example.iqwhizz.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

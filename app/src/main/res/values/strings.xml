@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">IQWhizz</string>
+    <string name="title_activity_start_up_screen">StartUpScreen</string>
 </resources>

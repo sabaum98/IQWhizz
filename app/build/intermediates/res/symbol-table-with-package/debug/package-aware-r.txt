@@ -628,6 +628,8 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable b990e6a792ba095c9ecdc4d5662a8367673d66f7
+drawable background
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable notification_action_background
@@ -679,6 +681,8 @@ id beginning
 id blocking
 id bottom
 id button
+id button3
+id button4
 id buttonPanel
 id center
 id center_horizontal
@@ -698,6 +702,8 @@ id default_activity_button
 id dimensions
 id direct
 id disableHome
+id editText3
+id editText4
 id edit_query
 id end
 id expand_activities_button
@@ -715,6 +721,7 @@ id icon
 id icon_group
 id ifRoom
 id image
+id imageView2
 id info
 id invisible
 id italic
