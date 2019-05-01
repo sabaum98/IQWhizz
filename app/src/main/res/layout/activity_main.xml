@@ -11,7 +11,7 @@
         android:id="@+id/button3"
         android:layout_width="164dp"
         android:layout_height="48dp"
-        android:layout_marginTop="24dp"
+        android:layout_marginTop="16dp"
         android:layout_marginEnd="24dp"
         android:layout_marginRight="24dp"
         android:text="Sign In"
@@ -25,20 +25,21 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
-        android:layout_marginTop="8dp"
+        android:layout_marginTop="140dp"
         android:contentDescription="TODO"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.542"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/b990e6a792ba095c9ecdc4d5662a8367673d66f7" />
-<!-- Hello world -->
+    <!-- Hello world -->
     <EditText
         android:id="@+id/editText3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
-        android:layout_marginTop="152dp"
+        android:layout_marginTop="40dp"
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
         android:ems="10"
@@ -46,7 +47,7 @@
         android:text="Username"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView2" />
+        app:layout_constraintTop_toBottomOf="@+id/imageView3" />
 
     <EditText
         android:id="@+id/editText4"
@@ -67,7 +68,7 @@
         android:id="@+id/button"
         android:layout_width="164dp"
         android:layout_height="48dp"
-        android:layout_marginTop="28dp"
+        android:layout_marginTop="16dp"
         android:layout_marginEnd="24dp"
         android:layout_marginRight="24dp"
         android:text="Sign Up"
@@ -78,12 +79,23 @@
         android:id="@+id/button4"
         android:layout_width="186dp"
         android:layout_height="50dp"
-        android:layout_marginTop="24dp"
         android:layout_marginBottom="16dp"
         android:text="Forgot Password"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button3" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="36dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView2"
+        app:srcCompat="@drawable/newtext" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
