@@ -1,4 +1,17 @@
 <resources>
     <string name="app_name">IQWhizz</string>
     <string name="title_activity_start_up_screen">StartUpScreen</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_username">Name</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_SignIn">Sign In</string>
+    <string name="text_SignUp">Sign Up</string>
+    <string name="error_message_username">Username does not exist</string>
+    <string name="error_message_password">Login credentials are wrong</string>
+    <string name="error_login_username">Username does not exist</string>
+    <string name="error_login_credentials">Login credentials are wrong</string>
+    <string name="success_message">Welcome to IQWhizz</string>
+    <string name="text_username_exists">Username already exists</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
 </resources>
