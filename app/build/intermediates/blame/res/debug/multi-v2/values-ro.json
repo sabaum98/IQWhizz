@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\nicol\\Documents\\Ucl\\LFSAB Q4\\LSINF1225 Conception_Oriente_Objet\\Projet1225\\IQWhizz\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ro\\values-ro.xml",
+            "outputFile": "C:\\Users\\Louis Mariaul\\Desktop\\IQWhizz-master\\IQWhizz\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ro\\values-ro.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\nicol\\.gradle\\caches\\transforms-2\\files-2.1\\b75b187835e5b78a5b375be211369cfd\\res\\values-ro\\values-ro.xml",
+                    "source": "C:\\Users\\Louis Mariaul\\.gradle\\caches\\transforms-2\\files-2.1\\6c2ded0d01e4921ea1c28f7b5e90a746\\res\\values-ro\\values-ro.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\nicol\\.gradle\\caches\\transforms-2\\files-2.1\\cf7c206c28b1cec79e64db4689a41ec0\\res\\values-ro\\values-ro.xml",
+                    "source": "C:\\Users\\Louis Mariaul\\.gradle\\caches\\transforms-2\\files-2.1\\e4f856af6a653e5929ba2b0c933dc4cc\\res\\values-ro\\values-ro.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

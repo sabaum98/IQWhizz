@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\nicol\\Documents\\Ucl\\LFSAB Q4\\LSINF1225 Conception_Oriente_Objet\\Projet1225\\IQWhizz\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-v4\\values-xlarge-v4.xml",
+            "outputFile": "C:\\Users\\Louis Mariaul\\Desktop\\IQWhizz-master\\IQWhizz\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-v4\\values-xlarge-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\nicol\\.gradle\\caches\\transforms-2\\files-2.1\\b75b187835e5b78a5b375be211369cfd\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "source": "C:\\Users\\Louis Mariaul\\.gradle\\caches\\transforms-2\\files-2.1\\6c2ded0d01e4921ea1c28f7b5e90a746\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",
