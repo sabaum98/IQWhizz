@@ -16,12 +16,12 @@
         "source": "C:\\Users\\sacha\\.gradle\\caches\\transforms-2\\files-2.1\\a6550e1970206db3ebc5cd2926b769e6\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\sacha\\AndroidStudioProjects\\IQWhizz\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_top.xml.flat",
-        "source": "C:\\Users\\sacha\\.gradle\\caches\\transforms-2\\files-2.1\\d5f16b73529bf0f0ae2b6a649969de48\\res\\anim\\abc_slide_out_top.xml"
-    },
-    {
         "merged": "C:\\Users\\sacha\\AndroidStudioProjects\\IQWhizz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_up.xml.flat",
         "source": "C:\\Users\\sacha\\AndroidStudioProjects\\IQWhizz\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\sacha\\AndroidStudioProjects\\IQWhizz\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_top.xml.flat",
+        "source": "C:\\Users\\sacha\\.gradle\\caches\\transforms-2\\files-2.1\\d5f16b73529bf0f0ae2b6a649969de48\\res\\anim\\abc_slide_out_top.xml"
     },
     {
         "merged": "C:\\Users\\sacha\\AndroidStudioProjects\\IQWhizz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_text_cursor_material.xml.flat",
